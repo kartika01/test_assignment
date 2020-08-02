@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAssignment</string>
+    <string name="view_members"><u>View Members</u></string>
+    <string name="follow">Follow</string>
+    <string name="search">Search</string>
+    <string name="mark_as_favorite"><u>Mark as favorite</u></string>
+</resources>
